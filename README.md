@@ -149,13 +149,15 @@ Below are the main steps followed to build this Power BI project:
 
 ### **Project Insight**
 
-The dashboard reveals clear patterns in default behavior. Clients with higher bank balances (Platinum tier) surprisingly show the highest default rate. Low-salary segments (Class B & C) default more, while a majority of defaulters are employed. Risk clusters like Low Risk–Platinum are major contributors. Overall, 3.61% of customers fall under the high-risk group.
+The dashboard reveals clear patterns in default behavior. Key finding,
+* "Clients with higher bank balances (Platinum tier) surprisingly show the highest default rate."
+* "Low-salary segments (Class B & C) default more, while a majority of defaulters are employed."
+* "Risk clusters like Low Risk–Platinum are major contributors. Overall, 3.61% of customers fall under the high-risk group."
 
 ---
 
 ###  **Final Conclusion**
 
-To reduce future defaults, banks should re-evaluate customers with high balances but poor repayment history. Instead of assuming high salary or balance equals low risk, banks should track real behavior and segment users better. Sending reminders, doing regular check-ins, and being more careful with “Platinum” users can help reduce risks and improve repayments.
-
+To reduce future defaults, banks should avoid relying only on salary or balance as a safety marker. Instead, track real repayment behavior, identify risk clusters, and set up early alerts or follow-ups—especially for high-balance customers—to lower default rates and improve collections. Sending reminders, doing regular check-ins, and being more careful with “Platinum” users can help reduce risks and improve repayments.
 
 ---
