@@ -140,10 +140,10 @@ Below are the main steps followed to build this Power BI project:
 ![Income-Based Risk Segmentation](https://raw.githubusercontent.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/main/Screenshot-Income-Based%20Risk%20Segmentation.png)
 
 ### 3️ Financial Health & Default Behavior
-![Financial Health & Default Behavior](https://raw.githubusercontent.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/main/Screenshot-Financial%20Health%20%26%20Default%20Behavior.png)
+![Financial Health & Default Behavior](https://github.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/raw/main/Screenshot-Financial%20Health%20%26%20Default%20Behavior.png)
 
 ### 4️ High-Risk Client Identification
-![High-Risk Client Identification](https://raw.githubusercontent.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/main/Screenshot-High-Risk%20Client%20Identification.png)
+![High-Risk Client Identification](https://github.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/raw/main/Screenshot-High-Risk%20Client%20Identification.png)
 
 ---
 
