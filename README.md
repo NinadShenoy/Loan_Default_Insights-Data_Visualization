@@ -134,7 +134,7 @@ Below are the main steps followed to build this Power BI project:
 ## 📸 Dashboard Previews
 
 ### 1️ Executive Summary
-![Executive Summary](https://raw.githubusercontent.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/main/Screenshot-Executive%20Summary.png)
+![Executive Summary](https://github.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/raw/main/Screenshot-Executive%20Summary.png)
 
 ### 2️ Income-Based Risk Segmentation
 ![Income-Based Risk Segmentation](https://raw.githubusercontent.com/NinadShenoy/Loan_Default_Insights-Data_Visualization/main/Screenshot-Income-Based%20Risk%20Segmentation.png)
