@@ -90,7 +90,8 @@ This project simulates analyzing and visualizing loan default behavior to identi
 I used **ChatGPT** to:
 
 * Suggest the best visual types for presenting insights
-* Structure the dashboard pages to tell a clear business story
+* Structure the dashboard pages
+* To generate business questions
 
 ---
 
